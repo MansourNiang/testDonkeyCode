@@ -2,3 +2,35 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+#global{
+	width: 900px;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	border: 1px solid green;
+}	
+header{
+	width: 898px;
+	height: 48px;
+	border: 1px solid red;
+}
+section{
+	width: 898px;
+	min-height: 500px;
+	border: 1px solid gray;
+}
+footer{
+	width: 898px;
+	height: 48px;
+	border: 1px solid red;
+	text-align: center;
+}
+#carreVert{
+	width: 200px;
+	height: 200px;
+	margin-left: 80px;
+	margin-top: 50px;
+	background-color: green;
+}
